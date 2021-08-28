@@ -8,12 +8,12 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read current affairs an play tennis
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-### Stats
+<br>
+## Stats
 ![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhjain1997&show_icons=true&theme=material-palenight) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhjain1997)](https://github.com/anuraghazra/github-readme-stats)
 
 
