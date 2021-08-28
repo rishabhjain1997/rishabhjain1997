@@ -15,7 +15,7 @@
 
 <br/><br/><br/>
 ## Stats
-![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhjain1997&show_icons=true&theme=material-palenight) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhjain1997)](https://github.com/anuraghazra/github-readme-stats)
+![Rishabh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishabhjain1997&show_icons=true&theme=default) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhjain1997)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [instagram]: https://instagram.com/rishabhjain7_
